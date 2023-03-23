@@ -1,4 +1,4 @@
-package JavaInterface;
+package JavaInterface.Interface;
 
 // Pig "implements" the Animal interface
 class Pig implements Animal {
