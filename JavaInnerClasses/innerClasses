@@ -1,0 +1,7 @@
+// a class within a class
+// The purpose of nested classes is to group classes that belong together, which makes your code more readable and maintainable.
+
+An inner class can also be static, which means that you can access it without creating an object of the outer class:
+ just like static attributes and methods, a static inner class does not have access to members of the outer class.
+
+One advantage of inner classes, is that they can access attributes and methods of the outer class

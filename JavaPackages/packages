@@ -1,0 +1,12 @@
+<!-- The Java API is a library of prewritten classes, that are free to use, included in the Java Development Environment.
+https://docs.oracle.com/javase/8/docs/api/
+
+import package.name.Class;   // Import a single class
+import package.name.*;   // Import the whole package 
+
+
+import java.util.Scanner; // class, which is used to get user input
+
+https://www.w3schools.com/java/java_packages.asp
+
+-->
