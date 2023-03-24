@@ -1,0 +1,10 @@
+ Arrays store items as an ordered collection, and you have to access them with an index number (int type). 
+ A HashMap however, store items in "key/value" pairs, and you can access them by an index of another type (e.g. a String).
+
+ One object is used as a key (index) to another object (value). It can store different types: String keys and Integer values, 
+ or the same type, like: String keys and String values:
+
+ Other types
+ Keys and values in a HashMap are actually objects. In the examples above, we used objects of type "String". Remember 
+ that a String in Java is an object (not a primitive type). To use other types, such as int, you must specify an equivalent
+  wrapper class: Integer. For other primitive types, use: Boolean for boolean, Character for char, Double for double, etc:
